@@ -1,2 +1,3 @@
 # Abone-Rol-Bot
-Discord'Da abone ss'lerini okuyarak otomatik rol verir
+Discord'Da abone yani kendi kanalızın ss'lerini okuyarak otomatik rol verir
+Vds dede çalışıyor
